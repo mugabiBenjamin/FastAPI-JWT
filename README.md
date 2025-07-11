@@ -9,6 +9,8 @@ uv sync
 ## Usage
 
 ```bash
+source .venv/bin/activate
+
 uv run uvicorn main:app --reload
 
 # OR traditional
