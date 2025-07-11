@@ -20,20 +20,20 @@ uvicorn main:app --reload
 ## Project Structure
 
 ```plaintext
-FastAPI-JWT/
-├─ __pycache__/
-├─ .venv/
-├─ .env
-├─ .gitignore
-├─ .python-version
-├─ auth.py
-├─ database.py
-├─ main.py
-├─ models.py
-├─ pyproject.toml
-├─ README.md
-├─ todosapp.db
-└─ uv.lock
+└── FastAPI-JWT/
+    ├─ __pycache__/
+    ├─ .venv/
+    ├─ .env
+    ├─ .gitignore
+    ├─ .python-version
+    ├─ auth.py
+    ├─ database.py
+    ├─ main.py
+    ├─ models.py
+    ├─ pyproject.toml
+    ├─ README.md
+    ├─ todosapp.db
+    └─ uv.lock
 ```
 
 ## Environment Variables
