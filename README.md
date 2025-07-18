@@ -46,7 +46,7 @@ SECRET_KEY=your-secret-key
 ALGORITHM=HS256
 
 # Database Configuration
-DATABASE_URL=sqlite:///./todosapp.db
+DATABASE_URL=sqlite:///./dbname.db
 # For PostgreSQL: postgresql://username:password@localhost/dbname
 # For MySQL: mysql://username:password@localhost/dbname
 ```
